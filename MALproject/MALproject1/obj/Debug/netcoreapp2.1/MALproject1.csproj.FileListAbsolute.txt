@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\ProgrammingPrinciples\MALproject1_TannerRosner\MALproject1\MALproject1\bin\Debug\netcoreapp2.1\MALproject1.deps.json
+C:\Users\Owner\Desktop\ProgrammingPrinciples\MALproject1_TannerRosner\MALproject1\MALproject1\bin\Debug\netcoreapp2.1\MALproject1.runtimeconfig.json
+C:\Users\Owner\Desktop\ProgrammingPrinciples\MALproject1_TannerRosner\MALproject1\MALproject1\bin\Debug\netcoreapp2.1\MALproject1.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\ProgrammingPrinciples\MALproject1_TannerRosner\MALproject1\MALproject1\bin\Debug\netcoreapp2.1\MALproject1.dll
+C:\Users\Owner\Desktop\ProgrammingPrinciples\MALproject1_TannerRosner\MALproject1\MALproject1\bin\Debug\netcoreapp2.1\MALproject1.pdb
+C:\Users\Owner\Desktop\ProgrammingPrinciples\MALproject1_TannerRosner\MALproject1\MALproject1\obj\Debug\netcoreapp2.1\MALproject1.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\ProgrammingPrinciples\MALproject1_TannerRosner\MALproject1\MALproject1\obj\Debug\netcoreapp2.1\MALproject1.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ProgrammingPrinciples\MALproject1_TannerRosner\MALproject1\MALproject1\obj\Debug\netcoreapp2.1\MALproject1.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\ProgrammingPrinciples\MALproject1_TannerRosner\MALproject1\MALproject1\obj\Debug\netcoreapp2.1\MALproject1.AssemblyInfo.cs
+C:\Users\Owner\Desktop\ProgrammingPrinciples\MALproject1_TannerRosner\MALproject1\MALproject1\obj\Debug\netcoreapp2.1\MALproject1.dll
+C:\Users\Owner\Desktop\ProgrammingPrinciples\MALproject1_TannerRosner\MALproject1\MALproject1\obj\Debug\netcoreapp2.1\MALproject1.pdb

@@ -1,0 +1,60 @@
+      Mal Project 1 | inputFile | outputFile | 02/26/2019 | Tanner Rosner| CS 3210
+ 
+1 // Program to execute (a + b) * 5
+2 // Multiple Errors
+3 
+4 // Load memory from A
+5 // LoadI is trying to initiate a load imediate value
+6 // But there is no imediate value being loaded, rather 
+7 // There is a memory location
+8 
+9 LoadI R1, 2
+10 
+11 // Load memory from B
+12 
+13 LodI R2, 2
+14 
+15 // Load the number 5 into R3
+16 
+17 LoadI R3, 5
+18 
+19 // Adds a and b and places the sum into R4
+20 // Multiplies sum of a+b by the number 5 and stores into R5
+21 // Stores the final product into memory named 'final'
+22 
+23 Add R4, R1, R2
+24 
+25 Mul R5, R3, R4, R7
+26 
+27 Str R5, =final
+
+-----------------------
+
+Stripped MAL Program Listing:
+ 
+7 LoadI R1, 2
+9 LodI R2, 2
+11 LoadI R3, 5
+15 Add R4, R1, R2
+16 Mul R5, R3, R4, R7
+17 Str R5, =final
+ 
+-----------------------
+Error Report Listing
+ 
+1 LoadI R1, 2
+2 LodI R2, 2
+***first token is not one of the valid opcodes***
+3 LoadI R3, 5
+4 Add R4, R1, R2
+5 Mul R5, R3, R4, R7
+***for the specific opcode, there are more operands than required***
+6 Str R5, =final
+ 
+-----------------------
+ 
+Total Errors: 2
+InvalidOpcode
+ExcessOperands
+ 
+Processing Complete: MAL Program Is Not Valid

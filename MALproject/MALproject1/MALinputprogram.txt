@@ -1,0 +1,27 @@
+// Program to execute (a + b) * 5
+// Multiple Errors
+
+// Load memory from A
+// LoadI is trying to initiate a load imediate value
+// But there is no imediate value being loaded, rather 
+// There is a memory location
+
+LoadI R1, 2
+
+// Load memory from B
+
+LodI R2, 2
+
+// Load the number 5 into R3
+
+LoadI R3, 5
+
+// Adds a and b and places the sum into R4
+// Multiplies sum of a+b by the number 5 and stores into R5
+// Stores the final product into memory named 'final'
+
+Add R4, R1, R2
+
+Mul R5, R3, R4, R7
+
+Str R5, =final
